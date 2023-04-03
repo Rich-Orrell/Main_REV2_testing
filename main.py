@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, flash
 import pyodbc
-#test
+#test2
 
 driver= '{ODBC Driver 18 for SQL Server}'
 conn_str = 'DRIVER=' + driver + \
